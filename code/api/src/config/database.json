@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "root",
+    "username": "quincy",
     "password": null,
-    "database": "crate",
-    "host": "127.0.0.1",
-    "dialect": "mysql",
+    "database": "quincy",
+    "host": "localhost",
+    "dialect": "postgres",
     "seederStorage": "sequelize"
   },
   "production": {
